@@ -12,7 +12,7 @@
 
 > Nelson Efrain Bolaños  Caisapanta
 
-> Bryan Vicente vivanco Loaiza
+> Bryan Vicente Vivanco Loaiza
 
 - Lenguaje Enbebido](https://github.com/DASTAN2021/Lenguaje-Embebido-.git)
 

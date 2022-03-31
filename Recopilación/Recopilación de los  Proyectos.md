@@ -10,9 +10,9 @@
 
 > Nicol Fernanda Herrera Godoy
 
-> Nelso Efrain Bolaños  Caisapana
+> Nelson Efrain Bolaños  Caisapanta
 
-> bryan Vicente vivanco Loaiza
+> Bryan Vicente vivanco Loaiza
 
 - Lenguaje Enbebido](https://github.com/DASTAN2021/Lenguaje-Embebido-.git)
 
